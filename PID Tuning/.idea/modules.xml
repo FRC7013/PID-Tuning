@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PID_Tuning.iml" filepath="$PROJECT_DIR$/.idea/modules/PID_Tuning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PID_Tuning_main.iml" filepath="$PROJECT_DIR$/.idea/modules/PID_Tuning_main.iml" group="PID_Tuning" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PID_Tuning_test.iml" filepath="$PROJECT_DIR$/.idea/modules/PID_Tuning_test.iml" group="PID_Tuning" />
+    </modules>
+  </component>
+</project>
