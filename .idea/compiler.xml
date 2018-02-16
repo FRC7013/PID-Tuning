@@ -2,6 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="PID-Tuning_main" target="1.8" />
+      <module name="PID-Tuning_test" target="1.8" />
       <module name="PID_Tuning_main" target="1.8" />
       <module name="PID_Tuning_test" target="1.8" />
     </bytecodeTargetLevel>
